@@ -15,6 +15,7 @@ This portfolio showcases data analytics projects demonstrating SQL, data validat
   - Product performance metrics
   - Interactive dashboards with filters for region, product, and time
   - SQL queries for aggregations, joins, and trend analysis
+ **Interactive Tableau Dashboard:** [View Dashboard](https://public.tableau.com/views/SalesPerformanceCustomerInsights_17658135800390/CustomerInsightsDashboard?:language=en-US&:sid=&:redirect=auth&showOnboarding=true&:display_count=n&:origin=viz_share_link)
 
 ### 2. Data Quality & Validation Analysis
 - **Repository:** [Project 2 — Data Quality & Validation]([https://github.com/yourusername/project-02-data-quality-validation](https://github.com/EbenEdwards/Data-Quality-Validation))
